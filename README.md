@@ -4,9 +4,9 @@ Yeni teknolojilerle çalışmayı ve test süreçlerini iyileştirmek için ara�
 Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum.
 
 # Becerilerim 
-Programlama Dili: Java, SQL, HTML
-Test Araçları ve Framework’ler: Selenium, Appium, Postman, Selenium Grid, Cucumber (BDD with Gherkin), TestNG, JUnit, Playwright, Maven, Jenkins
-Veritabanları: MySQL
+Programlama Dili: Java, SQL, HTML |
+Test Araçları ve Framework’ler: Selenium, Appium, Postman, Selenium Grid, Cucumber (BDD with Gherkin), TestNG, JUnit, Playwright, Maven, Jenkins |
+Veritabanları: MySQL |
 Diğer: Git, API
 
 # Test Yöntemlerim
