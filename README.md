@@ -3,13 +3,13 @@ Ben bir Test Otomasyon Mühendisiyim. Test otomasyonu ve yazılım test süreçl
 
 Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum. Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemlerini öğreniyorum.
 
-Teknolojiler ve Araçlar
-💻 Diller: Java, SQL, HTML
-🛠 Test Araçları: Selenium, Appium, Postman, Selenium Grid, Playwright, Cucumber (BDD with Gherkin), TestNG, JUnit
-🗃 Veritabanları: MySQL
-🚀 CI/CD Araçları: Maven, Jenkins
-🌐 Version Kontrol: Git
-📋 İzleme ve Yönetim Araçları: JIRA
+Teknolojiler ve Araçlar  
+💻 Diller: Java, SQL, HTML  
+🛠 Test Araçları: Selenium, Appium, Postman, Selenium Grid, Playwright, Cucumber (BDD with Gherkin), TestNG, JUnit  
+🗃 Veritabanları: MySQL  
+🚀 CI/CD Araçları: Maven, Jenkins  
+🌐 Version Kontrol: Git  
+📋 İzleme ve Yönetim Araçları: JIRA  
 
 # Test Yöntemlerim  
 🔍 Test Türleri:  
