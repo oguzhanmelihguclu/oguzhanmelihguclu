@@ -13,12 +13,12 @@ Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri t
 🔍 Test Türleri:
 
 Smoke Testing
-Regression Testing
-Functional Testing
-Integration Testing
-UI Testing
-Database Testing
-API Testing
+Regression Testing  
+Functional Testing  
+Integration Testing  
+UI Testing  
+Database Testing  
+API Testing  
 
 💻 Teknolojiler:
 JDBC
