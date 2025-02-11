@@ -4,7 +4,8 @@ Ben bir Test Otomasyon Mühendisiyim. Test otomasyonu ve yazılım test süreçl
 Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum. Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemlerini öğreniyorum.  
 
 Sosyal Medya Hesaplarım  
-[![LinkedIn](https://cdn.iconscout.com/icon/free/png-256/linkedin-218-1163759.png)](https://www.linkedin.com/in/oguzhanmelihguclu)
+[LinkedIn](https://www.linkedin.com/in/oguzhanmelihguclu)
+
 
 
 
