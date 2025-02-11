@@ -1,8 +1,7 @@
-  # Merhaba 
-Ben Oğuzhan Melih Güçlü, test otomasyon mühendisiyim. Test otomasyonu ve yazılım test süreçlerine büyük ilgi duyuyorum.  
-Yeni teknolojilerle çalışmayı ve test süreçlerini iyileştirmek için araçlar geliştirmeyi seviyorum.  
-Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum.  
+Merhaba, Ben Oğuzhan Melih Güçlü 👋
+Ben bir Test Otomasyon Mühendisiyim. Test otomasyonu ve yazılım test süreçlerine büyük bir ilgi duyuyorum. Yeni teknolojilerle çalışmayı, test süreçlerini iyileştirmek ve verimliliği artırmak için araçlar geliştirmeyi seviyorum.
 
+Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum. Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemlerini öğreniyorum.
 
 Teknolojiler ve Araçlar
 💻 Diller: Java, SQL, HTML
