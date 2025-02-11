@@ -10,25 +10,25 @@ Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri t
 💾 Veritabanları ==> MySQL  
 🌐 Diğer ==>  Git, API , JIRA  
 
-# Test Yöntemlerim
-🔍 Test Türleri:
-• Smoke Testing
-• Regression Testing
-• Functional Testing
-• Integration Testing
-• UI Testing
-• Database Testing
-• API Testing
-• Manual Testing
+# Test Yöntemlerim  
+🔍 Test Türleri:  
+• Smoke Testing  
+• Regression Testing  
+• Functional Testing  
+• Integration Testing  
+• UI Testing  
+• Database Testing  
+• API Testing  
+• Manual Testing  
 
-💻 Teknolojiler:
-• JDBC
+💻 Teknolojiler:  
+• JDBC  
 
-🔍 Test Türleri:
-• End-to-End Testing
-• Cross-Browser Testing
-• Exploratory Testing
-• Performance Testing
+🔍 Test Türleri:  
+• End-to-End Testing  
+• Cross-Browser Testing  
+• Exploratory Testing  
+• Performance Testing  
 
 
 <!---
