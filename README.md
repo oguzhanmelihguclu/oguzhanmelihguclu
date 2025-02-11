@@ -9,17 +9,17 @@ Sosyal Medya Hesaplarım
 
 
 
-Teknolojiler ve Araçlar  
+## Teknolojiler ve Araçlar  
 💻 Diller: Java, SQL, HTML  
 🛠 Test Araçları: Selenium, Appium, Postman, Selenium Grid, Playwright, Cucumber (BDD with Gherkin), TestNG, JUnit  
 🗃 Veritabanları: MySQL  
 🚀 CI/CD Araçları: Maven, Jenkins  
 🌐 Version Kontrol: Git  
 📋 İzleme ve Yönetim Araçları: JIRA  
-Test Yöntemlerim  
+##Test Yöntemlerim  
 🔍 Test Türleri:  
 
-Smoke Testing  
+• Smoke Testing  
 • Regression Testing  
 • Functional Testing  
 • Integration Testing  
