@@ -4,12 +4,14 @@ Yeni teknolojilerle çalışmayı ve test süreçlerini iyileştirmek için ara�
 Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum.
 
 # Becerilerim 
-Programlama Dili: Java, SQL, HTML |
-Test Araçları ve Framework’ler: Selenium, Appium, Postman, Selenium Grid, Cucumber (BDD with Gherkin), TestNG, JUnit, Playwright, Maven, Jenkins |
-Veritabanları: MySQL |
-Diğer: Git, API
+✨ Programlama Dili: Java, SQL, HTML
+🔧 Test Araçları ve Framework’ler: Selenium, Appium, Postman, Selenium Grid, Cucumber (BDD with Gherkin), TestNG, JUnit, Playwright, Maven, Jenkins
+💾 Veritabanları: MySQL
+🌐 Diğer: Git, API
 
 # Test Yöntemlerim
+🔍 Test Türleri:
+
 Smoke Testing
 Regression Testing
 Functional Testing
@@ -17,14 +19,14 @@ Integration Testing
 UI Testing
 Database Testing
 API Testing
+💻 Teknolojiler:
 JDBC
 
-# Test Türleri/Yöntemleri
+🔍 Test Türleri:
 End-to-End Testing
 Cross-Browser Testing
 Exploratory Testing
 Performance Testing
-
 
 
 <!---
