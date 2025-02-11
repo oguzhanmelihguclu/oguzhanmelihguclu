@@ -3,6 +3,8 @@ Ben bir Test Otomasyon Mühendisiyim. Test otomasyonu ve yazılım test süreçl
 
 Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum. Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemlerini öğreniyorum.
 
+[LinkedIn](https://www.linkedin.com/in/oguzhanmelihguclu)
+
 Teknolojiler ve Araçlar  
 💻 Diller: Java, SQL, HTML  
 🛠 Test Araçları: Selenium, Appium, Postman, Selenium Grid, Playwright, Cucumber (BDD with Gherkin), TestNG, JUnit  
