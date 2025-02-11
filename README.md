@@ -24,10 +24,10 @@ API Testing
 JDBC
 
 🔍 Test Türleri:
-End-to-End Testing
-Cross-Browser Testing
-Exploratory Testing
-Performance Testing
+End-to-End Testing  
+Cross-Browser Testing  
+Exploratory Testing  
+Performance Testing  
 
 
 <!---
