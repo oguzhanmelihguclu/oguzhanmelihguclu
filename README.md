@@ -17,8 +17,6 @@ Sosyal Medya Hesaplarım
 🌐 Version Kontrol: Git  
 📋 İzleme ve Yönetim Araçları: JIRA  
 ### Test Yöntemlerim  
-🔍 Test Türleri:  
-
 • Smoke Testing  
 • Regression Testing  
 • Functional Testing  
