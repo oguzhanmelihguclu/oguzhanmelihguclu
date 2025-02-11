@@ -5,10 +5,27 @@ Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri t
 
 
 # Becerilerim 
-✨ Programlama Dili ==> Java, SQL, HTML  
-🔧 Test Araçları ve Framework’ler ==> Selenium, Appium, Postman, Selenium Grid, Cucumber (BDD with Gherkin), TestNG, JUnit, Playwright, Maven, Jenkins  
-💾 Veritabanları ==> MySQL  
-🌐 Diğer ==>  Git, API , JIRA  
+✨ Programlama Dili :  
+• Java
+• SQL
+• HTML
+🔧 Test Araçları ve Framework’ler :  
+• Selenium
+• Appium
+• Postman
+• Selenium Grid
+• Cucumber (BDD with Gherkin)
+• TestNG
+• JUnit
+• Playwright
+• Maven
+• Jenkins  
+💾 Veritabanları :  
+• MySQL
+🌐 Diğer :  
+• Git
+• API
+• JIRA
 
 # Test Yöntemlerim  
 🔍 Test Türleri:  
