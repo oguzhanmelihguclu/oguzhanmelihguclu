@@ -11,7 +11,7 @@ Sosyal Medya Hesaplarım
 
 ### Teknolojiler ve Araçlar  
 💻 Diller: Java, SQL, HTML  
-🛠 Test Araçları: Selenium, Appium, Postman, Selenium Grid, Playwright, Cucumber (BDD with Gherkin), TestNG, JUnit  , Karate 
+🛠 Test Araçları: Selenium, Appium, Postman, Selenium Grid, Playwright, Cucumber (BDD with Gherkin), TestNG, JUnit  , Karate  
 🗃 Veritabanları: MySQL  
 🚀 CI/CD Araçları: Maven, Jenkins  
 🌐 Version Kontrol: Git  
