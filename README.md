@@ -53,7 +53,7 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
   <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright" />
 </a>
 <a href="https://appium.io/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Appium_Logo.png" width="40" height="40" alt="Appium" />
+  <img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" width="40" height="40" alt="Appium" />
 </a>
 
 
