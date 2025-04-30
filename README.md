@@ -54,9 +54,16 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
 <a href="https://playwright.dev/" target="_blank">
   <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright" />
 </a>
+<!-- Appium -->
+<a href="https://appium.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/appium.svg" width="40" height="40" alt="Appium" />
+</a>
+
+<!-- Cucumber -->
 <a href="https://cucumber.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/cucumber/.github/main/profile/cucumber-logo.png" width="40" height="40" alt="Cucumber" />
 </a>
+
 <a href="https://testng.org/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/35881959?s=200&v=4" width="40" height="40" alt="TestNG" />
 </a>
