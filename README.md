@@ -28,29 +28,70 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
 
 ### 🧰 Teknolojiler ve Araçlar
 
-**💻 Diller:**  
-Java • SQL • HTML  
+<p align="left">
 
-**🧪 Test Araçları:**  
-Selenium • Appium • Postman • Selenium Grid • Playwright •  
-Cucumber (BDD with Gherkin) • TestNG • JUnit • Karate  
+<!-- Diller -->
+<a href="https://www.java.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+</a>
 
-**🗃 Veritabanları:**  
-MySQL  
+<!-- Test Araçları -->
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+</a>
+<a href="https://appium.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Appium_Logo.svg/2048px-Appium_Logo.svg.png" alt="Appium" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+<a href="https://playwright.dev/" target="_blank">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+</a>
+<a href="https://cucumber.io/" target="_blank">
+  <img src="https://static-00.iconduck.com/assets.00/cucumber-icon-1024x1024-yeyxik32.png" alt="Cucumber" width="40" height="40"/>
+</a>
+<a href="https://testng.org/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/35881959?s=280&v=4" alt="TestNG" width="40" height="40"/>
+</a>
+<a href="https://junit.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/JUnit_5_Banner.png" alt="JUnit" width="80" height="40"/>
+</a>
+<a href="https://karatelabs.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/30353541?s=200&v=4" alt="Karate" width="40" height="40"/>
+</a>
 
-**🚀 CI/CD Araçları:**  
-Maven • Jenkins  
+<!-- CI/CD -->
+<a href="https://maven.apache.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="80" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+</a>
 
-**🌐 Versiyon Kontrol:**  
-Git  
+<!-- Version Kontrol -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
 
-**📋 İzleme ve Yönetim Araçları:**  
-JIRA  
+<!-- Takip & Yönetim -->
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="JIRA" width="40" height="40"/>
+</a>
 
-**💻 Ek Teknolojiler:**  
-JDBC  
+<!-- JDBC -->
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JDBC" width="40" height="40"/>
+</a>
 
----
+</p>
+
 
 ### ✅ Test Yöntemlerim
 
