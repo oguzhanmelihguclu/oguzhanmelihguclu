@@ -54,23 +54,21 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40" alt="JIRA" /></a>
 </p>
 
----
+| 🚀 Test Türü | 🎯 Amaç |  
+|-------------|---------|  
+| Smoke Testing | Kritik fonksiyonların doğrulanması |  
+| Regression Testing | Güncellemelerin sistemde bozulmaya yol açmadığını doğrulama |  
+| Functional Testing | Özelliklerin beklendiği gibi çalıştığını kontrol etme |  
+| Integration Testing | Modüllerin birbirleriyle uyumlu çalışmasını test etme |  
+| UI Testing | Kullanıcı arayüzü tutarlılığını sağlama |  
+| Database Testing | Veri güvenliği ve bütünlüğünü doğrulama |  
+| API Testing | Servisler arasındaki veri akışının doğru çalıştığını test etme |  
+| Manual Testing | Öngörülemeyen hataları manuel olarak inceleme |  
+| End-to-End Testing | Baştan sona tüm sistem süreçlerini test etme |  
+| Cross-Browser Testing | Farklı tarayıcılarda aynı performansı doğrulama |  
+| Exploratory Testing | Yeni ve bilinmeyen hataları keşfetme |  
+| Performance Testing | Sistemin yük altında nasıl davrandığını ölçme |  
 
-### ✅ Test Yöntemlerim
-✅ Smoke Testing  
-✅ Regression Testing  
-✅ Functional Testing  
-✅ Integration Testing  
-✅ UI Testing  
-✅ Database Testing  
-✅ API Testing  
-✅ Manual Testing  
-✅ End-to-End Testing  
-✅ Cross-Browser Testing  
-✅ Exploratory Testing  
-✅ Performance Testing  
-
----
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
