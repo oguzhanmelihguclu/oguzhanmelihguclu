@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Test Otomasyon Mühendisi | Sürekli Öğrenen | Verimlilik Tutkunu 🚀</h1>
+<h1 align="center">🚀 Test Otomasyonu & Yazılım Kalitesi</h1>
+
 <p align="center">
 🔍 Test Otomasyon Mühendisi | 💡 Sürekli Öğrenen | 🚀 Verimlilik Tutkunu
 </p>
