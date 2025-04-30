@@ -23,6 +23,12 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
+<p>
+  <a href="mailto:oguzhanmguclu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 
 ---
 
