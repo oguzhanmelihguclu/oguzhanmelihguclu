@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Test Otomasyonu & Yazılım Kalitesi</h1>
+<h1 align="center">🚀 Merhaba! Ben **Oğuzhan Melih Güçlü**, bir **Test Otomasyon Mühendisi</h1>
 
 <p align="center">
 🔍 Test Otomasyon Mühendisi | 💡 Sürekli Öğrenen | 🚀 Verimlilik Tutkunu
