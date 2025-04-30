@@ -45,9 +45,7 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
 <a href="https://www.selenium.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" />
 </a>
-<a href="https://appium.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/appium/appium/main/docs/assets/appium-logo.png" width="40" height="40" alt="Appium" />
-</a>
+
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
 </a>
@@ -56,12 +54,12 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
 </a>
 <!-- Appium -->
 <a href="https://appium.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/appium.svg" width="40" height="40" alt="Appium" />
+  <img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" width="40" height="40" alt="Appium" />
 </a>
 
 <!-- Cucumber -->
 <a href="https://cucumber.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/cucumber/.github/main/profile/cucumber-logo.png" width="40" height="40" alt="Cucumber" />
+  <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="40" height="40" alt="Cucumber" />
 </a>
 
 <a href="https://testng.org/" target="_blank">
