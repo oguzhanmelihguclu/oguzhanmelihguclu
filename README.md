@@ -1,23 +1,23 @@
-<h1 align="center">🚀 Test Otomasyonu & Yazılım Kalitesi</h1>
+<h1 align="center">🚀 Test Automation & Software Quality</h1>
 
 <p align="center">
-🔍 Test Otomasyon Mühendisi | 💡 Sürekli Öğrenen | 🚀 Verimlilik Tutkunu
+🔍 Test Automation Engineer | 💡 Lifelong Learner | 🚀 Productivity Enthusiast
 </p>
 
 ---
 
-### 🙋‍♂️ Hakkımda
+### 🙋‍♂️ About Me
 
-Merhaba! Ben **Oğuzhan Melih Güçlü**, bir **Test Otomasyon Mühendisi**.  
-Test otomasyonu ve yazılım test süreçlerine büyük bir ilgi duyuyorum.  
-Yeni teknolojilerle çalışmayı, test süreçlerini iyileştirmek ve verimliliği artırmak için araçlar geliştirmeyi seviyorum.  
+Hello! I'm **Oğuzhan Melih Güçlü**, a **Test Automation Engineer**.  
+I'm highly interested in test automation and software testing processes.  
+I enjoy working with new technologies and developing tools to improve test processes and boost efficiency.  
 
-Her zaman kendimi geliştirmeye ve test mühendisliği alanındaki yenilikleri takip etmeye özen gösteriyorum.  
-Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemlerini öğreniyorum.  
+I'm always striving to improve myself and keep up with innovations in the field of test engineering.  
+I continuously enhance my skills and learn modern testing techniques.
 
 ---
 
-### 📫 Sosyal Medya Hesaplarım
+### 📫 Social Media
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oguzhanmelihguclu" target="_blank">
@@ -30,8 +30,7 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
 
 ---
 
-
-<h3>🛠️ Test Araçları & Frameworkler</h3>
+<h3>🛠️ Test Tools & Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -43,10 +42,9 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
   <img src="https://img.shields.io/badge/TestNG-F36336?style=for-the-badge&logo=testng&logoColor=white" />
 </p>
 
-
 ---
 
-<h3>🔧 CI/CD & Proje Yönetimi</h3>
+<h3>🔧 CI/CD & Project Management</h3>
 <p>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -54,25 +52,26 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
+---
 
+| 🚀 Test Type | 🎯 Purpose |  
+|-------------|------------|  
+| Smoke Testing | Verifying critical functionalities |  
+| Regression Testing | Ensuring updates don’t break existing features |  
+| Functional Testing | Confirming features work as expected |  
+| Integration Testing | Checking if modules work together properly |  
+| UI Testing | Validating UI consistency and usability |  
+| Database Testing | Verifying data integrity and security |  
+| API Testing | Ensuring proper communication between services |  
+| Manual Testing | Exploring and identifying unforeseen issues |  
+| End-to-End Testing | Testing complete workflows across the system |  
+| Cross-Browser Testing | Validating performance across different browsers |  
+| Exploratory Testing | Discovering unexpected bugs through exploration |  
+| Performance Testing | Measuring system behavior under load |
 
-| 🚀 Test Türü | 🎯 Amaç |  
-|-------------|---------|  
-| Smoke Testing | Kritik fonksiyonların doğrulanması |  
-| Regression Testing | Güncellemelerin sistemde bozulmaya yol açmadığını doğrulama |  
-| Functional Testing | Özelliklerin beklendiği gibi çalıştığını kontrol etme |  
-| Integration Testing | Modüllerin birbirleriyle uyumlu çalışmasını test etme |  
-| UI Testing | Kullanıcı arayüzü tutarlılığını sağlama |  
-| Database Testing | Veri güvenliği ve bütünlüğünü doğrulama |  
-| API Testing | Servisler arasındaki veri akışının doğru çalıştığını test etme |  
-| Manual Testing | Öngörülemeyen hataları manuel olarak inceleme |  
-| End-to-End Testing | Baştan sona tüm sistem süreçlerini test etme |  
-| Cross-Browser Testing | Farklı tarayıcılarda aynı performansı doğrulama |  
-| Exploratory Testing | Yeni ve bilinmeyen hataları keşfetme |  
-| Performance Testing | Sistemin yük altında nasıl davrandığını ölçme |  
+---
 
-
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhanmelihguclu&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmelihguclu&theme=radical" alt="GitHub Streak Stats" />
