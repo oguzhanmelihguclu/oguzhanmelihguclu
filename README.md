@@ -30,29 +30,30 @@ Bu alandaki becerilerimi sürekli olarak geliştiriyor ve modern test yöntemler
 
 ---
 
-### 🛠️ Test Araçları & Frameworkler
 
-<p align="left">
-  <a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright" /></a>
-  <a href="https://appium.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/appiumio/appiumio-icon.svg" width="40" height="40" alt="Appium" /></a>
-  <a href="https://karatelabs.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/30353541?s=200&v=4" width="40" height="40" alt="Karate Framework" /></a>
-  <a href="https://cucumber.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="40" height="40" alt="Cucumber" /></a>
-  <a href="https://junit.org/junit5/" target="_blank"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="40" height="40" alt="JUnit" /></a>
-  <a href="https://testng.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/35881959?s=200&v=4" width="40" height="40" alt="TestNG" /></a>
+<h3>🛠️ Test Araçları & Frameworkler</h3>
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-00A4EF?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Karate-4B4B4B?style=for-the-badge&logo=karate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-F36336?style=for-the-badge&logo=testng&logoColor=white" />
 </p>
+
 
 ---
 
-### 🔧 CI/CD & Proje Yönetimi
-
-<p align="left">
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="80" height="40" alt="Maven" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="GitHub" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40" alt="JIRA" /></a>
+<h3>🔧 CI/CD & Proje Yönetimi</h3>
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+
 
 | 🚀 Test Türü | 🎯 Amaç |  
 |-------------|---------|  
