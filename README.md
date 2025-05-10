@@ -29,16 +29,13 @@ I continuously enhance my skills and learn modern testing techniques.
 </p>
 
 
-<h3>💻 Programming Languages</h3>
+<h3>💻 Programming Languages & Database Query Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<h3>🔧 Database Query Language</h3>
-<p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
 
 <h3>🛠️ Test Tools & Frameworks</h3>
