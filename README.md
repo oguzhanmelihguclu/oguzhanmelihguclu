@@ -1,7 +1,7 @@
 <h1 align="center"> Test Automation & Software Quality</h1>
 
 <p align="center">
-🔍 Test Automation Engineer | 💡 Lifelong Learner | 🚀 Productivity Enthusiast
+ Test Automation Engineer |  Lifelong Learner |  Productivity Enthusiast
 </p>
 
 ---
