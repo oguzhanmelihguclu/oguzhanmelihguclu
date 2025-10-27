@@ -1,44 +1,44 @@
-<h1 align="center"> Test Automation & Software Quality</h1>
+<h1 align="center">Test Automation & Software Quality Engineering</h1>
 
 <p align="center">
- Test Automation Engineer |  Lifelong Learner |  Productivity Enthusiast
+  <strong>Test Automation Engineer</strong> · <strong>Lifelong Learner</strong> · <strong>Productivity Enthusiast</strong>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-Hello! I'm **Oğuzhan Melih Güçlü**, a **Test Automation Engineer**.  
-I'm highly interested in test automation and software testing processes.  
-I enjoy working with new technologies and developing tools to improve test processes and boost efficiency.  
+Hello! I'm **Oğuzhan Melih Güçlü**, a **Test Automation Engineer** passionate about building reliable, maintainable, and scalable testing frameworks.  
+I’m deeply interested in **software quality**, **automation tools**, and **continuous improvement**.  
 
-I'm always striving to improve myself and keep up with innovations in the field of test engineering.  
-I continuously enhance my skills and learn modern testing techniques.
+I enjoy exploring new technologies, developing efficient testing solutions, and following modern approaches in QA engineering to ensure product excellence.
 
 ---
 
-### 📫 Social Media
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oguzhanmelihguclu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:oguzhanmguclu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
+---
 
 <h3>💻 Programming Languages & Database Query Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
 
-
-<h3>🛠️ Test Tools & Frameworks</h3>
+<h3>🧪 Test Tools & Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -52,7 +52,7 @@ I continuously enhance my skills and learn modern testing techniques.
 
 ---
 
-<h3>🔧 CI/CD & Project Management</h3>
+<h3>⚙️ CI/CD & Project Management</h3>
 <p>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -63,7 +63,7 @@ I continuously enhance my skills and learn modern testing techniques.
 ---
 
 | 🚀 Test Type | 🎯 Purpose |  
-|-------------|------------|  
+|--------------|------------|  
 | Smoke Testing | Verifying critical functionalities |  
 | Regression Testing | Ensuring updates don’t break existing features |  
 | Functional Testing | Confirming features work as expected |  
@@ -79,7 +79,7 @@ I continuously enhance my skills and learn modern testing techniques.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhanmelihguclu&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanmelihguclu&theme=radical" alt="GitHub Streak Stats" />
