@@ -62,7 +62,7 @@ I enjoy exploring new technologies, developing efficient testing solutions, and 
 
 ---
 
-| 🚀 Test Type | 🎯 Purpose |  
+|  Test Type |  Purpose |  
 |--------------|------------|  
 | Smoke Testing | Verifying critical functionalities |  
 | Regression Testing | Ensuring updates don’t break existing features |  
